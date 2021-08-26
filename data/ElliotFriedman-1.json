@@ -1,0 +1,9 @@
+{
+  "contest": "Gravity Bridge contest",
+  "handle": "ElliotFriedman",
+  "address": "0x0AeA60Ce1D3D7CCbCc47F50Af7F14eC5462195AF",
+  "risk": "3",
+  "title": "Arbitrary Logic Enables ERC20 Theft",
+  "issueId": 1,
+  "issueUrl": "https://github.com/code-423n4/2021-08-gravitybridge-findings/issues/1"
+}
