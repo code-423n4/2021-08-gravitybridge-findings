@@ -1,0 +1,9 @@
+{
+  "contest": "Gravity Bridge contest",
+  "handle": "tensors",
+  "address": "0x3C86b2B86F0A4B180802026cB1d0d73F80200AB3",
+  "risk": "2",
+  "title": "Possible miner incentive for chain reorgs if ETHBlockDelay is too small",
+  "issueId": 12,
+  "issueUrl": "https://github.com/code-423n4/2021-08-gravitybridge-findings/issues/12"
+}
