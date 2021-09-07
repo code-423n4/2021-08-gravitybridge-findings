@@ -1,0 +1,9 @@
+{
+  "contest": "Gravity Bridge contest",
+  "handle": "nascent",
+  "address": "0xcCd72BeA12f3927063bE3D8798a4b74082713cb5",
+  "risk": "2",
+  "title": "ERC20s that block transfer to particular addresses enable DoS/Censorship",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2021-08-gravitybridge-findings/issues/8"
+}
