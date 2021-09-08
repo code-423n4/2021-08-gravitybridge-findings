@@ -1,0 +1,9 @@
+{
+  "contest": "Gravity Bridge contest",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "G",
+  "title": "state variable that are not updated throughout the contract they should be declared as constant",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2021-08-gravitybridge-findings/issues/44"
+}
