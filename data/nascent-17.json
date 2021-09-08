@@ -1,0 +1,9 @@
+{
+  "contest": "Gravity Bridge contest",
+  "handle": "nascent",
+  "address": "0xcCd72BeA12f3927063bE3D8798a4b74082713cb5",
+  "risk": "0",
+  "title": "`Vec::new()` instead of `Iterator::collect()`",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2021-08-gravitybridge-findings/issues/17"
+}
