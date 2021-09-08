@@ -1,0 +1,9 @@
+{
+  "contest": "Gravity Bridge contest",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "2",
+  "title": "lack of validation for the v and s value in  recover() funciton ",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2021-08-gravitybridge-findings/issues/43"
+}
