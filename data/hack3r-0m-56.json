@@ -1,0 +1,9 @@
+{
+  "contest": "Gravity Bridge contest",
+  "handle": "hack3r-0m",
+  "address": "0x825aE6fb177186e9551ab1CDd6D4aB10B22A0Dba",
+  "risk": "2",
+  "title": "Unhandled reverts from Cosmos to Eth batches can cause *Denial Of Service*",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2021-08-gravitybridge-findings/issues/56"
+}
