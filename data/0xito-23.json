@@ -1,0 +1,9 @@
+{
+  "contest": "Gravity Bridge contest",
+  "handle": "0xito",
+  "address": "0xC59f50aC5C90Ac8AFb9936daB81fe9Dad20808fC",
+  "risk": "1",
+  "title": "validator set can be updated with same set",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2021-08-gravitybridge-findings/issues/23"
+}
