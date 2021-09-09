@@ -1,0 +1,9 @@
+{
+  "contest": "Gravity Bridge contest",
+  "handle": "jmak",
+  "address": "0xc1f83D44281688b35B98480c80991bfa4424c0aB",
+  "risk": "3",
+  "title": "Cannot actually submit evidence",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2021-08-gravitybridge-findings/issues/64"
+}
